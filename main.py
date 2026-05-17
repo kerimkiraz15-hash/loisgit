@@ -160,7 +160,7 @@ if len(sys.argv) == 1:
     An Update System for people that only want backups and not complex stuff.
 
 
-    Written in Python, Opensource https:
+    Written in Python, Opensource https://github.com/kerimkiraz15-hash/loisgit
 
     - loisgit help
 
